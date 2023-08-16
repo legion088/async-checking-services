@@ -1,0 +1,15 @@
+{
+  "CATEGORY 1": [
+    "7-HP",
+    "ARM-IC",
+    "LDA-PC",
+    "NBDZH",
+    "USER-PC"
+  ],
+  "CATEGORY 2": [
+    "USER-OS",
+    "TEST-PC",
+    "SPCH-ARM1",
+    "PRIM1"
+  ]
+}
