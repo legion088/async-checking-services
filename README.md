@@ -11,5 +11,6 @@ The software implementation with asynchronous code allows you to check several n
 <b>Ключевые слова:</b> системное администрирование, сетевые устройства, доступность, асинхронное программирование, синхронное программирование.<br>
 <b>Keywords:</b> system administration, network devices, availability, asynchronous programming, synchronous programming. 
 
-<br><br>
-![res](https://github.com/legion088/async-checking-services/blob/main/img/result.png)
+<p align="center">
+<img src="https://github.com/legion088/async-checking-services/blob/main/img/result.png"/>
+</p>
