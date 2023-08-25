@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.internauka.org/conf/tech/lxxiv-lxxv">
+<a href="https://www.internauka.org/conf/tech/lxxiv-lxxv" target="_blank">
 <img src="https://github.com/legion088/async-checking-services/blob/main/img/article.png"/>
 </a>
 </div>
